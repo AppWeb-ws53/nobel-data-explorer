@@ -20,3 +20,15 @@ Nobel Data Explorer is a platform designed to explore historical and current dat
 * Architecture: Domain-driven and layered, with separate subdomains for public (general UI components) and laureates (components related to laureate information).
 
 # Author
+Juan Astonitas
+
+```
+npm install primevue
+npm install @primevue/themes
+npm install primeicons
+npm i primeflex
+npm i axios
+npm install dotenv
+npm install vue-i18n@10
+
+```
