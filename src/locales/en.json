@@ -1,0 +1,17 @@
+{
+  "toolbar":{
+    "title": "Nobel Data Explorer"
+  },
+  "laureate": {
+    "id": "ID",
+    "name": "Name",
+    "surname": "Surname",
+    "born": "Born",
+    "gender": "Gender",
+    "numberPrizes": "Number of Prizes"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "developed": "Developed by"
+  }
+}

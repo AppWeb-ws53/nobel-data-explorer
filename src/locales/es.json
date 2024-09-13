@@ -1,0 +1,17 @@
+{
+  "toolbar":{
+    "title": "Explorador de Premios Nobel"
+  },
+  "laureate": {
+    "id": "ID",
+    "name": "Nombre",
+    "surname": "Apellido",
+    "born": "Nacimiento",
+    "gender": "Sexo",
+    "numberPrizes": "Número de premios"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "developed": "Desarrollado por"
+  }
+}
